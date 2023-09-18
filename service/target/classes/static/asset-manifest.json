@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/psbbiller/static/css/main.ded0ede8.chunk.css",
+    "main.js": "/psbbiller/static/js/main.f5d25a08.chunk.js",
+    "main.js.map": "/psbbiller/static/js/main.f5d25a08.chunk.js.map",
+    "runtime-main.js": "/psbbiller/static/js/runtime-main.7d36bc5b.js",
+    "runtime-main.js.map": "/psbbiller/static/js/runtime-main.7d36bc5b.js.map",
+    "static/css/2.01ca705e.chunk.css": "/psbbiller/static/css/2.01ca705e.chunk.css",
+    "static/js/2.402a7fdf.chunk.js": "/psbbiller/static/js/2.402a7fdf.chunk.js",
+    "static/js/2.402a7fdf.chunk.js.map": "/psbbiller/static/js/2.402a7fdf.chunk.js.map",
+    "static/js/3.fe142a12.chunk.js": "/psbbiller/static/js/3.fe142a12.chunk.js",
+    "static/js/3.fe142a12.chunk.js.map": "/psbbiller/static/js/3.fe142a12.chunk.js.map",
+    "index.html": "/psbbiller/index.html",
+    "static/css/2.01ca705e.chunk.css.map": "/psbbiller/static/css/2.01ca705e.chunk.css.map",
+    "static/css/main.ded0ede8.chunk.css.map": "/psbbiller/static/css/main.ded0ede8.chunk.css.map",
+    "static/js/2.402a7fdf.chunk.js.LICENSE.txt": "/psbbiller/static/js/2.402a7fdf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7d36bc5b.js",
+    "static/css/2.01ca705e.chunk.css",
+    "static/js/2.402a7fdf.chunk.js",
+    "static/css/main.ded0ede8.chunk.css",
+    "static/js/main.f5d25a08.chunk.js"
+  ]
+}

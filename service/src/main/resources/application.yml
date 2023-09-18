@@ -1,0 +1,48 @@
+app:
+  version: 0.0.1.SNAPSHOT
+
+server:
+   servlet:
+      context-path: /bspbiller
+       
+spring:
+   profiles:
+      active: dev
+   # SPRING EMAIL PROPERTIES
+   mail:
+      properties:
+         mail:
+            smtp:
+               connectiontimeout: 5000
+               timeout: 5000
+               writetimeout: 5000
+
+logging:
+   file:
+      name: D:/moadbus/logs/biller.log
+   level:
+      root: ERROR
+      org.springframework.web: ERROR
+      org.hibernate: DEBUG
+      com.moadbus: DEBUG
+ 
+application:
+   bank:
+      id: 220
+   domain:
+      url: https://core1.moadbusglobal.com/psbbankdev/psbibanking
+      
+# logging:
+#    file: 
+#       name: "D:/moadbus/logs/biller.log"
+# spring:
+#    datasource:
+#       url: jdbc:as400://192.168.88.168/MBANKBNCDV;prompt=false
+#       driverClassName: com.ibm.as400.access.AS400JDBCDriver
+#       username: MBANKBNCDV
+#       password: MBBNCDEV
+#    jpa:
+#       database-platform: org.hibernate.dialect.DB2Dialect
+#       generate-ddl: true
+#       hibernate:
+#          ddl-auto: create
