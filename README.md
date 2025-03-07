@@ -1,5 +1,5 @@
 "# billerportal" 
-Spring Boot application I wrote for a bank. It is used by billers to view the transactions on their account.
+Biller portal written in Spring Boot. It is used by billers to view the transactions on their account.
 The system includes the following features:
 1. Registration
 2. Authentication/Login
